@@ -1,11 +1,11 @@
 game.StarterGui:SetCore("SendNotification", {
-    Title = "Subscribe";
-    Text = "Made By Kurteee X"; -- what the text says (ofc)
+    Title = "Best Script";
+    Text = "Загрузка..."; -- what the text says (ofc)
     Duration = 10;
 }) 
 
 local Library = loadstring(game:HttpGet("https://pastebin.com/raw/vff1bQ9F"))() 
-local Window = Library.CreateLib("Best script | Priston life ", "Beta")
+local Window = Library.CreateLib("Beast Script | Priston life", "Synapse")
 
 --Tabs
 
@@ -18,8 +18,8 @@ local Tab5 = Window:NewTab("Update Log")
  
 --Sections
 
-local Tab1Section = Tab1:NewSection("Made My Kurteee X")
-local Tab1Section = Tab1:NewSection("Subscribe To Kurteee X") 
+local Tab1Section = Tab1:NewSection("пенис")
+local Tab1Section = Tab1:NewSection("пенис") 
 local Tab2Section = Tab2:NewSection("Items") 
 local Tab3Section = Tab3:NewSection("Movements") 
 local Tab4Section = Tab4:NewSection("Teleport") 
@@ -266,4 +266,3 @@ b.Parent = game.Players.LocalPlayer.Backpack
 end
 end
 end)
-
